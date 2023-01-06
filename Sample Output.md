@@ -2,7 +2,7 @@
 
 If player successfully clears all the bosses:
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+```
 Player Name: j
 Starting player HP: 200
 
@@ -283,8 +283,247 @@ You won!
 Congratulations on clearing the boss lap!
 
 ------------------- Finish -------------------
+```
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+If player dies before defeating the final boss:
+
+```
+Player Name: akira
+Starting player HP: 200
+
+------------------- Round 1 -------------------
+Player element: Ice     Boss: Duma
+
+akira did 23 damage! Duma has 377 HP left.
+Duma did 6 damage! akira has 194 HP left.
+
+akira did 22 damage! Duma has 355 HP left.
+Duma did 6 damage! akira has 188 HP left.
+
+akira did 25 damage! Duma has 330 HP left.
+Duma did 6 damage! akira has 182 HP left.
+
+akira did 20 damage! Duma has 310 HP left.
+Duma did 7 damage! akira has 175 HP left.
+
+akira did 23 damage! Duma has 287 HP left.
+Duma did 5 damage! akira has 170 HP left.
+
+akira did 27 damage! Duma has 260 HP left.
+Duma did 6 damage! akira has 164 HP left.
+
+akira did 25 damage! Duma has 235 HP left.
+Duma did 7 damage! akira has 157 HP left.
+
+akira did 27 damage! Duma has 208 HP left.
+Duma did 6 damage! akira has 151 HP left.
+
+akira did 29 damage! Duma has 179 HP left.
+Duma did 6 damage! akira has 145 HP left.
+
+akira did 26 damage! Duma has 153 HP left.
+Duma did 6 damage! akira has 139 HP left.
+
+akira did 24 damage! Duma has 129 HP left.
+Duma did 7 damage! akira has 132 HP left.
+
+akira did 25 damage! Duma has 104 HP left.
+Duma did 6 damage! akira has 126 HP left.
+
+akira did 27 damage! Duma has 77 HP left.
+Duma did 7 damage! akira has 119 HP left.
+
+akira did 24 damage! Duma has 53 HP left.
+Duma did 7 damage! akira has 112 HP left.
+
+akira did 23 damage! Duma has 30 HP left.
+Duma did 7 damage! akira has 105 HP left.
+
+akira did 28 damage! Duma has 2 HP left.
+Duma did 6 damage! akira has 99 HP left.
+
+You won!
+
+------------------- Round 2 -------------------
+Player element: Fire     Boss: Stein
+
+akira did 50 damage! Stein has 550 HP left.
+Stein did 16 damage! akira has 164 HP left.
+
+akira did 57 damage! Stein has 493 HP left.
+Stein did 13 damage! akira has 151 HP left.
+
+akira did 46 damage! Stein has 447 HP left.
+Stein did 15 damage! akira has 136 HP left.
+
+akira did 51 damage! Stein has 396 HP left.
+Stein did 16 damage! akira has 120 HP left.
+
+akira did 51 damage! Stein has 345 HP left.
+Stein did 14 damage! akira has 106 HP left.
+
+akira did 48 damage! Stein has 297 HP left.
+Stein did 17 damage! akira has 89 HP left.
+
+akira did 52 damage! Stein has 245 HP left.
+Stein did 13 damage! akira has 76 HP left.
+
+akira did 47 damage! Stein has 198 HP left.
+Stein did 13 damage! akira has 63 HP left.
+
+akira did 54 damage! Stein has 144 HP left.
+Stein did 14 damage! akira has 49 HP left.
+
+akira did 54 damage! Stein has 90 HP left.
+Stein did 16 damage! akira has 33 HP left.
+
+akira did 51 damage! Stein has 39 HP left.
+Stein did 13 damage! akira has 20 HP left.
+
+You won!
+
+------------------- Round 3 -------------------
+Player element: Water     Boss: Chlorovenom
+
+akira did 89 damage! Chlorovenom has 711 HP left.
+Chlorovenom did 23 damage! akira has 217 HP left.
+
+akira did 88 damage! Chlorovenom has 623 HP left.
+Chlorovenom did 24 damage! akira has 193 HP left.
+
+akira did 84 damage! Chlorovenom has 539 HP left.
+Chlorovenom did 22 damage! akira has 171 HP left.
+
+akira did 78 damage! Chlorovenom has 461 HP left.
+Chlorovenom did 27 damage! akira has 144 HP left.
+
+akira did 79 damage! Chlorovenom has 382 HP left.
+Chlorovenom did 23 damage! akira has 121 HP left.
+
+akira did 73 damage! Chlorovenom has 309 HP left.
+Chlorovenom did 24 damage! akira has 97 HP left.
+
+akira did 85 damage! Chlorovenom has 224 HP left.
+Chlorovenom did 26 damage! akira has 71 HP left.
+
+akira did 71 damage! Chlorovenom has 153 HP left.
+Chlorovenom did 21 damage! akira has 50 HP left.
+
+akira did 73 damage! Chlorovenom has 80 HP left.
+Chlorovenom did 26 damage! akira has 24 HP left.
+
+You won!
+
+------------------- Round 4 -------------------
+Player element: Fire     Boss: Halostone
+
+akira did 117 damage! Halostone has 883 HP left.
+Halostone did 37 damage! akira has 263 HP left.
+
+akira did 103 damage! Halostone has 780 HP left.
+Halostone did 34 damage! akira has 229 HP left.
+
+akira did 107 damage! Halostone has 673 HP left.
+Halostone did 30 damage! akira has 199 HP left.
+
+akira did 117 damage! Halostone has 556 HP left.
+Halostone did 30 damage! akira has 169 HP left.
+
+akira did 99 damage! Halostone has 457 HP left.
+Halostone did 37 damage! akira has 132 HP left.
+
+akira did 107 damage! Halostone has 350 HP left.
+Halostone did 33 damage! akira has 99 HP left.
+
+akira did 102 damage! Halostone has 248 HP left.
+Halostone did 32 damage! akira has 67 HP left.
+
+akira did 104 damage! Halostone has 144 HP left.
+Halostone did 31 damage! akira has 36 HP left.
+
+akira did 104 damage! Halostone has 40 HP left.
+Halostone did 33 damage! akira has 3 HP left.
+
+You won!
+
+------------------- Round 5 -------------------
+Player element: Fire     Boss: Flaro
+
+akira did 135 damage! Flaro has 1065 HP left.
+Flaro did 42 damage! akira has 318 HP left.
+
+akira did 130 damage! Flaro has 935 HP left.
+Flaro did 41 damage! akira has 277 HP left.
+
+akira did 145 damage! Flaro has 790 HP left.
+Flaro did 39 damage! akira has 238 HP left.
+
+akira did 142 damage! Flaro has 648 HP left.
+Flaro did 47 damage! akira has 191 HP left.
+
+akira did 132 damage! Flaro has 516 HP left.
+Flaro did 43 damage! akira has 148 HP left.
+
+akira did 142 damage! Flaro has 374 HP left.
+Flaro did 42 damage! akira has 106 HP left.
+
+akira did 137 damage! Flaro has 237 HP left.
+Flaro did 47 damage! akira has 59 HP left.
+
+akira did 140 damage! Flaro has 97 HP left.
+Flaro did 44 damage! akira has 15 HP left.
+
+You won!
+
+------------------- Round 6 -------------------
+Player element: Telepath     Boss: Nightmare
+
+akira did 292 damage! It's super effective! Nightmare has 1108 HP left.
+Nightmare did 45 damage! akira has 375 HP left.
+
+akira did 346 damage! It's super effective! Nightmare has 762 HP left.
+Nightmare did 46 damage! akira has 329 HP left.
+
+akira did 342 damage! It's super effective! Nightmare has 420 HP left.
+Nightmare did 51 damage! akira has 278 HP left.
+
+akira did 310 damage! It's super effective! Nightmare has 110 HP left.
+Nightmare did 53 damage! akira has 225 HP left.
+
+You won!
+
+------------------- Round 7 -------------------
+Player element: Fire     Boss: Septo
+
+akira did 181 damage! Septo has 1419 HP left.
+Septo did 53 damage! akira has 427 HP left.
+
+akira did 193 damage! Septo has 1226 HP left.
+Septo did 66 damage! akira has 361 HP left.
+
+akira did 170 damage! Septo has 1056 HP left.
+Septo did 64 damage! akira has 297 HP left.
+
+akira did 170 damage! Septo has 886 HP left.
+Septo did 66 damage! akira has 231 HP left.
+
+akira did 195 damage! Septo has 691 HP left.
+Septo did 56 damage! akira has 175 HP left.
+
+akira did 195 damage! Septo has 496 HP left.
+Septo did 63 damage! akira has 112 HP left.
+
+akira did 185 damage! Septo has 311 HP left.
+Septo did 60 damage! akira has 52 HP left.
+
+akira did 188 damage! Septo has 123 HP left.
+
+You have fallen...
+
+------------------- Finish -------------------
+
+Process finished with exit code 0
+```
 
 
